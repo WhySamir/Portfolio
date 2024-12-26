@@ -1,0 +1,37 @@
+/* App.css */
+.custom-dashed-border {
+  border: 3px dashed transparent; /* Base border to define dashed behavior */
+  border-image: repeating-linear-gradient(
+    45deg,
+    #a855f7,
+    #a855f7 10px,
+    transparent 10px,
+    transparent 14px
+  );
+  border-image-slice: 1.8;
+}
+.whyte-text {
+  font-family: "Whyte", sans-serif;
+}
+/* For modern browsers */
+.no-scrollbar {
+  overflow-x: scroll;
+  overflow-y: auto; /* Enable vertical scrolling */
+  scrollbar-width: none; /* For Firefox */
+  -ms-overflow-style: none; /* For Internet Explorer and Edge */
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none; /* For Chrome, Safari, and Opera */
+}
+text2 span:not(:last-child) {
+  margin-right: 2rem;
+}
+text2 span:last-child {
+  margin-right: 1rem;
+}
+.closing-animation {
+  opacity: 0;
+  transform: translateY(-10px);
+  transition: opacity 0.3s ease, transform 0.3s ease;
+}

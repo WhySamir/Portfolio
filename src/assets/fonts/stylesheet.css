@@ -1,0 +1,240 @@
+@font-face {
+    font-family: 'Whyte';
+    src: url('Whyte-Italic.eot');
+    src: local('Whyte Italic'), local('Whyte-Italic'),
+        url('Whyte-Italic.eot?#iefix') format('embedded-opentype'),
+        url('Whyte-Italic.woff2') format('woff2'),
+        url('Whyte-Italic.woff') format('woff'),
+        url('Whyte-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Whyte';
+    src: url('Whyte-ExtraLightItalic.eot');
+    src: local('Whyte ExtraLight Italic'), local('Whyte-ExtraLightItalic'),
+        url('Whyte-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+        url('Whyte-ExtraLightItalic.woff2') format('woff2'),
+        url('Whyte-ExtraLightItalic.woff') format('woff'),
+        url('Whyte-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Whyte Book';
+    src: url('Whyte-Book.eot');
+    src: local('Whyte Book'), local('Whyte-Book'),
+        url('Whyte-Book.eot?#iefix') format('embedded-opentype'),
+        url('Whyte-Book.woff2') format('woff2'),
+        url('Whyte-Book.woff') format('woff'),
+        url('Whyte-Book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Whyte';
+    src: url('Whyte-HeavyItalic.eot');
+    src: local('Whyte Heavy Italic'), local('Whyte-HeavyItalic'),
+        url('Whyte-HeavyItalic.eot?#iefix') format('embedded-opentype'),
+        url('Whyte-HeavyItalic.woff2') format('woff2'),
+        url('Whyte-HeavyItalic.woff') format('woff'),
+        url('Whyte-HeavyItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Whyte';
+    src: url('Whyte-Regular.eot');
+    src: local('Whyte Regular'), local('Whyte-Regular'),
+        url('Whyte-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Whyte-Regular.woff2') format('woff2'),
+        url('Whyte-Regular.woff') format('woff'),
+        url('Whyte-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Whyte Super';
+    src: url('Whyte-Super.eot');
+    src: local('Whyte Super'), local('Whyte-Super'),
+        url('Whyte-Super.eot?#iefix') format('embedded-opentype'),
+        url('Whyte-Super.woff2') format('woff2'),
+        url('Whyte-Super.woff') format('woff'),
+        url('Whyte-Super.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Whyte';
+    src: url('Whyte-LightItalic.eot');
+    src: local('Whyte Light Italic'), local('Whyte-LightItalic'),
+        url('Whyte-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('Whyte-LightItalic.woff2') format('woff2'),
+        url('Whyte-LightItalic.woff') format('woff'),
+        url('Whyte-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Whyte Book';
+    src: url('Whyte-BookItalic.eot');
+    src: local('Whyte Book Italic'), local('Whyte-BookItalic'),
+        url('Whyte-BookItalic.eot?#iefix') format('embedded-opentype'),
+        url('Whyte-BookItalic.woff2') format('woff2'),
+        url('Whyte-BookItalic.woff') format('woff'),
+        url('Whyte-BookItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Whyte';
+    src: url('Whyte-Heavy.eot');
+    src: local('Whyte Heavy'), local('Whyte-Heavy'),
+        url('Whyte-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('Whyte-Heavy.woff2') format('woff2'),
+        url('Whyte-Heavy.woff') format('woff'),
+        url('Whyte-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Whyte Super';
+    src: url('Whyte-SuperItalic.eot');
+    src: local('Whyte Super Italic'), local('Whyte-SuperItalic'),
+        url('Whyte-SuperItalic.eot?#iefix') format('embedded-opentype'),
+        url('Whyte-SuperItalic.woff2') format('woff2'),
+        url('Whyte-SuperItalic.woff') format('woff'),
+        url('Whyte-SuperItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Whyte';
+    src: url('Whyte-MediumItalic.eot');
+    src: local('Whyte Medium Italic'), local('Whyte-MediumItalic'),
+        url('Whyte-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('Whyte-MediumItalic.woff2') format('woff2'),
+        url('Whyte-MediumItalic.woff') format('woff'),
+        url('Whyte-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Whyte';
+    src: url('Whyte-Bold.eot');
+    src: local('Whyte Bold'), local('Whyte-Bold'),
+        url('Whyte-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Whyte-Bold.woff2') format('woff2'),
+        url('Whyte-Bold.woff') format('woff'),
+        url('Whyte-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Whyte';
+    src: url('Whyte-Black.eot');
+    src: local('Whyte Black'), local('Whyte-Black'),
+        url('Whyte-Black.eot?#iefix') format('embedded-opentype'),
+        url('Whyte-Black.woff2') format('woff2'),
+        url('Whyte-Black.woff') format('woff'),
+        url('Whyte-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Whyte';
+    src: url('Whyte-BlackItalic.eot');
+    src: local('Whyte Black Italic'), local('Whyte-BlackItalic'),
+        url('Whyte-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('Whyte-BlackItalic.woff2') format('woff2'),
+        url('Whyte-BlackItalic.woff') format('woff'),
+        url('Whyte-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Whyte';
+    src: url('Whyte-ExtraLight.eot');
+    src: local('Whyte ExtraLight'), local('Whyte-ExtraLight'),
+        url('Whyte-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('Whyte-ExtraLight.woff2') format('woff2'),
+        url('Whyte-ExtraLight.woff') format('woff'),
+        url('Whyte-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Whyte';
+    src: url('Whyte-Light.eot');
+    src: local('Whyte Light'), local('Whyte-Light'),
+        url('Whyte-Light.eot?#iefix') format('embedded-opentype'),
+        url('Whyte-Light.woff2') format('woff2'),
+        url('Whyte-Light.woff') format('woff'),
+        url('Whyte-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Whyte';
+    src: url('Whyte-Medium.eot');
+    src: local('Whyte Medium'), local('Whyte-Medium'),
+        url('Whyte-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Whyte-Medium.woff2') format('woff2'),
+        url('Whyte-Medium.woff') format('woff'),
+        url('Whyte-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Whyte';
+    src: url('Whyte-BoldItalic.eot');
+    src: local('Whyte Bold Italic'), local('Whyte-BoldItalic'),
+        url('Whyte-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Whyte-BoldItalic.woff2') format('woff2'),
+        url('Whyte-BoldItalic.woff') format('woff'),
+        url('Whyte-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Whyte';
+    src: url('Whyte-ThinItalic.eot');
+    src: local('Whyte Thin Italic'), local('Whyte-ThinItalic'),
+        url('Whyte-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('Whyte-ThinItalic.woff2') format('woff2'),
+        url('Whyte-ThinItalic.woff') format('woff'),
+        url('Whyte-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Whyte';
+    src: url('Whyte-Thin.eot');
+    src: local('Whyte Thin'), local('Whyte-Thin'),
+        url('Whyte-Thin.eot?#iefix') format('embedded-opentype'),
+        url('Whyte-Thin.woff2') format('woff2'),
+        url('Whyte-Thin.woff') format('woff'),
+        url('Whyte-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
